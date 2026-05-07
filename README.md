@@ -61,11 +61,6 @@ Built an interactive dashboard featuring:
 
 ---
 
-## 📊 Dashboard Preview
-<img width="1356" height="743" alt="dashboard-preview" src="https://github.com/user-attachments/assets/42ebb363-9645-4f3b-a730-d7b11d832766" />
-
----
-
 ## 🔍 Key Insights
 - Male customers generate **68% of total revenue** ($157,890 vs $75,191)
 - **73% of customers are non-subscribers** - major conversion opportunity
