@@ -25,9 +25,9 @@ marketing and product strategies?
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python (Pandas)** — Data cleaning and preprocessing
-- **SQL (PostgreSQL)** — Business analysis and querying
-- **Power BI** — Interactive dashboard and visualisation
+- **Python (Pandas)** - Data cleaning and preprocessing
+- **SQL (PostgreSQL)** - Business analysis and querying
+- **Power BI** - Interactive dashboard and visualisation
 
 ---
 
@@ -36,12 +36,12 @@ marketing and product strategies?
 ### 1. Data Cleaning (Python)
 - Dataset: 3,900 customers, 18 features
 - Handled 37 missing values in Review Rating using category-wise median imputation
-- Standardised column names — lowercase with underscores
+- Standardised column names - lowercase with underscores
 - Created `age_group` column using pd.qcut (Young Adult, Adult, Middle-aged, Senior)
-- Created `purchase_frequency_days` — mapped text frequency to numeric values
+- Created `purchase_frequency_days` - mapped text frequency to numeric values
 - Removed duplicate column `promo_code_used` (identical to `discount_applied`)
 
-### 2. Business Analysis (SQL — PostgreSQL)
+### 2. Business Analysis (SQL - PostgreSQL)
 Wrote 10 business queries covering:
 - Revenue by gender and age group
 - Customer segmentation (New, Returning, Loyal)
@@ -52,12 +52,12 @@ Wrote 10 business queries covering:
 
 ### 3. Data Visualisation (Power BI)
 Built an interactive dashboard featuring:
-- KPI Cards — Total Revenue, Total Customers, Avg Purchase, Avg Rating
+- KPI Cards - Total Revenue, Total Customers, Avg Purchase, Avg Rating
 - Revenue by Category bar chart
 - Customer Segments bar chart
 - Top Products bar chart
 - Subscription Status donut chart
-- Slicers — Gender, Category, Subscription Status, Shipping Type
+- Slicers - Gender, Category, Subscription Status, Shipping Type
 
 ---
 
@@ -68,12 +68,12 @@ Built an interactive dashboard featuring:
 
 ## 🔍 Key Insights
 - Male customers generate **68% of total revenue** ($157,890 vs $75,191)
-- **73% of customers are non-subscribers** — major conversion opportunity
+- **73% of customers are non-subscribers** - major conversion opportunity
 - Loyal customers (10+ purchases) make up **~77%** of the customer base
 - Clothing is the **top revenue category** at ~$103K
 - **Jewelry, Pants and Undergarments** are the top 3 selling products
-- Most repeat buyers are non-subscribers — opportunity to drive subscriptions
-- All age groups contribute similarly to revenue — no dominant demographic
+- Most repeat buyers are non-subscribers - opportunity to drive subscriptions
+- All age groups contribute similarly to revenue - no dominant demographic
 
 ---
 
@@ -101,4 +101,4 @@ Built an interactive dashboard featuring:
 
 ## 📬 Contact
 - **GitHub:** github.com/antony561
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** www.linkedin.com/in/antony-alvin-johnson
