@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-<img width="1356" height="743" alt="dashboard-preview" src="https://github.com/user-attachments/assets/b19616c9-5223-4b71-b47b-dd87438dcd91" />
+![Dashboard Preview](./dashboard-preview.png)
 
 ## 📌 Overview
 This end-to-end data analytics project analyzes customer shopping 
