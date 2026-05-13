@@ -90,7 +90,7 @@ Built an interactive dashboard featuring:
 | `customer_shopping_dashboard.pbix` | Power BI interactive dashboard |
 | `customer_shopping_behavior.csv` | Raw dataset |
 | `dashboard_preview.png` | Dashboard screenshot |
-| `Customer_Shopping_Analysis_Report.pdf` | Full project report |
+| `Customer_Shopping_Behavior_Report.pdf` | Full project report |
 
 ---
 
